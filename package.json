@@ -1,0 +1,18 @@
+{
+	"name": "grades-bot",
+	"version": "1.0.0",
+	"description": "A bot for my grades",
+	"main": "client.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^14.7.1",
+		"dotenv": "^16.0.3",
+		"fs": "^0.0.1-security",
+		"mongoose": "^6.8.2"
+	}
+}
